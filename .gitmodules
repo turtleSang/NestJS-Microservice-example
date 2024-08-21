@@ -1,3 +1,6 @@
 [submodule "http-server"]
 	path = http-server
 	url = https://github.com/turtleSang/API-Server-NestJS
+[submodule "book"]
+	path = book
+	url = https://github.com/turtleSang/NestJs-Microservice-BookService
